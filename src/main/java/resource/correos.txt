@@ -1,0 +1,7 @@
+j.hernández@laempresa.com;2026-10-27;Agradeceré enviar el códidgo del producto solicitado
+kevinLara@todocompras.com;2026-10-27;Agradeceré enviar listado con códigos de los productos solicitados
+ana.maria.pena@idimp.com;2026-10-30;Hoy será despachado a su país la importación 345
+javier.Arias@todocompra.com;2026-11-03;Informamos que la importación K1234, llegaá a su paín el lunes 9-nov
+juan.carlos.Fuentes@laempresa.com;2026-11-03;El pedido E6078 semorará en el envío 4 semanas. Gracias por su comprensión
+renata.torres@acme.com;2026-11-04;Acuso recibo solicitud de compra N°A88990. Se informará la fecha de despacho
+kevinLara@todocompras.com;2026-11-05;Listado de códigos recibido OK.

@@ -1,0 +1,14 @@
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/com/mycompany/gestionimportadora/GestionImportadora.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/data/CargarCorreos.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/data/CargarProductos.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/data/CargarProveedores.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/model/Correo.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/model/Importadora.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/model/Producto.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/model/Proveedor.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/rutConExcepciones/ExpresionRegular.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/rutConExcepciones/FormatoInvalidoException.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/rutConExcepciones/Rut.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/rutConExcepciones/RutInvalidoException.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/utiles/Direccion.java
+/Users/nina/Desktop/PRY2202/01 Clases/S4/GestionImportadora/src/main/java/utiles/Nombre.java

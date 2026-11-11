@@ -1,0 +1,4 @@
+12123,La empresa y Hnos,China,(+87) 111 1234 5678,contacto@laempresa.com
+44333,Todo Compras CIA,España,(+34) 12 3456 7890,gerencia@todocompras.com
+23123,ID Importaciones LTDA.,Mexico,(+52) 33 4455 6565,contacto@idimp.com
+77656,ACME Inc.,Reino Unido,(+44)68 4321 5678,ventas@acme.com
